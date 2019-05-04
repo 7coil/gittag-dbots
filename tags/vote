@@ -1,0 +1,38 @@
+{
+  "embed": {
+    "title": "Vote for **GitTags**",
+    "description": "omg show your suppot!!r!! you can get gittags premium for free for 1 month!!!!111!\n\nyou will be able to feel a sense of ACCOMPLISHMEN!T11!11",
+    "url": "https://github.com/7coil/gittag",
+    "timestamp": "2019-05-04T17:07:03.673Z",
+    "thumbnail": {
+      "url": "https://api.discordapps.dev/img/logo/logo128.png"
+    },
+    "fields": [
+      {
+        "name": "discordbots.org",
+        "value": "[View](https://www.youtube.com/watch?v=qZO8guhtnFw) - The world's #1 most unpopular bot list, voted by developers",
+        "inline": true
+      },
+      {
+        "name": "bots.circuitrcay.com",
+        "value": "[View](https://www.youtube.com/watch?v=thpTOAS1Vgg) - ggGrapPeEGrape",
+        "inline": true
+      },
+      {
+        "name": "discord.bots.gg",
+        "value": "[View](https://discord.bots.gg/bots/504819339422072834) - Cutes",
+        "inline": true
+      },
+      {
+        "name": "discordapps.dev/fr/",
+        "value": "[View](https://discordapps.dev/fr/bots/504819339422072834) - un liste de bots discord en francais :french_bread:",
+        "inline": true
+      },
+      {
+        "name": "extreme-discord_bots.glitch.me:5000/discord/bots",
+        "value": "[View](https://www.youtube.com/watch?v=846cjX0ZTrk) - my first bot list, by Fisher Price",
+        "inline": true
+      }
+    ]
+  }
+}
