@@ -3,9 +3,13 @@
   "embed": {
     "title": "🍇🍇 GrapeGGRAPE 🍇",
     "description": "Grape 'Grape' GRAPE is a grape 🍇 who is the grape of 🍇 the Grape Grape grape. He is a grape of 🍇.grape and Grape Grape. He is more commonly associated with 🍇 not completing grapes 🍇 that he has started, often leaving them 🍇 unfinis...",
+    "footer": {
+      "icon_url": null,
+      "footer": "Designer photograph of Grape, circa. 2018"
+    },
     "url": "https://www.google.com/search?q=🍇",
     "image": {
-      "url": "https://cdn.discordapp.com/attachments/132632676225122304/573995910577651723/unknown.png"
+      "url": "https://img.etimg.com/thumb/height-480,width-640,msid-68194821,imgsize-89908/gettyimages-937415814.jpg"
     }
   }
 }
