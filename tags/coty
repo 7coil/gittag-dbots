@@ -1,0 +1,10 @@
+{
+  "embed": {
+    "title": "Katie's Cute of the Year is...",
+    "description": "Ally!",
+    "timestamp": "{{moment "next year" "YYYY-MM-DDTHH:mm:ssZ"}}",
+    "footer": {
+      "text": "Next COTD will be revealed"
+    }
+  }
+}
