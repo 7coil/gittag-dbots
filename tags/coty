@@ -4,7 +4,7 @@
     "description": "Ally!",
     "timestamp": "{{moment "next year" "YYYY-MM-DDTHH:mm:ssZ"}}",
     "footer": {
-      "text": "Next COTD will be revealed"
+      "text": "Next COTY will be revealed"
     }
   }
 }
