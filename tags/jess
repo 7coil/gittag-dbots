@@ -1,0 +1,20 @@
+{
+  "embed": {
+    "title": "'jessica'",
+    "description": "first used by Shakespeare in his play 'The Merchant of Venice', from 1596.",
+    "fields": [
+      {
+        "name": "origin",
+        "value": "likely originated from the biblical name iscah, which was spelled 'jescha' in Shakespearean times."
+      },
+      {
+        "name": "popularity",
+        "value": "it was not used as a given name until the early 1900s."
+      }
+    ],
+    "color": 15633076,
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/avatars/255950165200994307/0bb9da32326bb33440dac3fbb7092048.png"
+    }
+  } 
+}
