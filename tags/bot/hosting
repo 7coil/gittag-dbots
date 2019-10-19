@@ -21,10 +21,10 @@
         "name": "Extremely Cheap",
         "value": "£34.00 - [Raspberry Pi 4 1GB](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064004407358)\n£0.00 - [Google Cloud Platform](https://cloud.google.com/free/) `F1-micro` instance"
       },
-			{
-				"name": "You don't even need a debit/credit card",
-				"value": "£0.11/kWh - An old desktop, laptop or mobile you're willing to keep on\n£9.30 - Buy a Raspberry Pi Zero W in Maplin or Radioshack and hide it in a library\n£3.59/mo - Just get someone else to pay for a VPS online\n\nWe're trying very hard to not recommend Glitch. Please read `git>bot/glitch` for reasons why we are so adamant against it."
-			},
+      {
+        "name": "You don't even need a debit/credit card",
+        "value": "£0.11/kWh - An old desktop, laptop or mobile you're willing to keep on\n£9.30 - Buy a Raspberry Pi Zero W in Maplin or Radioshack and hide it in a library\n£3.59/mo - Just get someone else to pay for a VPS online\n\nWe're trying very hard to not recommend Glitch. Please read `git>bot/glitch` for reasons why we are so adamant against it."
+      },
       {
         "name": "Age Restrictions",
         "value": "Some services may not let users under 13 sign up. If you are under 13, please tell a moderator for them to ban you."
