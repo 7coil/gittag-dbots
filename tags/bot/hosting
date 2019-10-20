@@ -1,0 +1,34 @@
+{
+  "embed": {
+    "title": "Cheap (or even free) Bot Hosting",
+    "description": "Congratulations! You have finished programming your first bot. You now need to place your bot somewhere it can run 24 hours a day, 7 days a week, 365 days a year.",
+    "url": "https://github.com/Erisa/gittag-testing-i-think",
+    "timestamp": "2019-10-19T05:27:00Z",
+    "footer": {
+      "text": "Last edited"
+    },
+    "author": {
+      "name": "7coil",
+      "url": "https://github.com/7coil",
+      "icon_url": "https://avatars0.githubusercontent.com/u/13886925"
+    },
+    "fields": [
+      {
+        "name": "Paid",
+        "value": "€2.99/mo (+vat) - Scaleway\n£3.59/mo - OVH.co.uk\n€2.99/mo (+vat) - OVH.com\n[Find even cheaper deals at lowendbox.com](https://lowendbox.com/)"
+      },
+      {
+        "name": "Extremely Cheap",
+        "value": "£34.00 - [Raspberry Pi 4 1GB](https://thepihut.com/products/raspberry-pi-4-model-b?variant=20064004407358)\n£0.00 - [Google Cloud Platform](https://cloud.google.com/free/) `F1-micro` instance"
+      },
+      {
+        "name": "You don't even need a debit/credit card",
+        "value": "£0.11/kWh - An old desktop, laptop or mobile you're willing to keep on\n£9.30 - Buy a Raspberry Pi Zero W in Maplin or Radioshack and hide it in a library\n£3.59/mo - Just get someone else to pay for a VPS online\n\nWe're trying very hard to not recommend Glitch. Please read `git>bot/glitch` for reasons why we are so adamant against it."
+      },
+      {
+        "name": "Age Restrictions",
+        "value": "Some services may not let users under 13 sign up. If you are under 13, please tell a moderator for them to ban you."
+      }
+    ]
+  }
+}
