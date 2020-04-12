@@ -1,9 +1,9 @@
 {
   "embed": {
-    "title": "Never ever use Glitch for Discord bots",
-    "description": "Glitch is a useful prototyping platform for your JavaScript projects - housing a range of weird and wonderful projects.\n\nGlitch, however is not the platform of choice for your Discord bot.",
+    "title": "Don't use Glitch for bots you plan to publish",
+    "description": "Glitch is a cool (and genuinely useful) prototyping platform for your JavaScript projects - housing a range of weird and wonderful projects. I would recommend Glitch for a wide range of one off projects, but one that should not be attempted is Discord Bots - especially if you are going to publish it onto a bot listing website.",
     "url": "https://github.com/Erisa/gittag-testing-i-think",
-    "timestamp": "2019-08-12T03:03:00Z",
+    "timestamp": "2020-04-12T15:24:00Z",
     "footer": {
       "text": "Last edited"
     },
@@ -15,7 +15,7 @@
     "fields": [
       {
         "name": "Why not?",
-        "value": "Glitch projects are not designed for production use - Evident in the automatic sleeping mechanism that projects have when you do not access them for a long time.\n\nUsing itself to fetch itself is a hack in itself, and wastes resources - not only from their servers, but from others who are legitimately using the platform to learn."
+        "value": "Glitch projects are not designed for production use - Evident in the automatic sleeping mechanism that projects have when you do not access them for a long time.\n\nGlitch may be cool for bots that you create for a small community, but is unsustainable for larger projects."
       },
       {
         "name": "Yeah, but it works. So what? I don't care!",
@@ -27,11 +27,11 @@
       },
       {
         "name": "Well what should I do then?",
-        "value": "At the bare minumum, go to your local bank or building society and get a _Debit Card_. Even if you're _11 years old_*. You can then use the card to pay for cheap cloud hosting, or sign up for some cool free trials - For example, [Google Compute Engine](https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits) has a VPS which is _free forever_ if you simply enter your card details in.\n\nFor more recommended Virtual Private Servers (VPS), try the `b!t hosting` command."
+        "value": "At the bare minimum, go to your local bank or building society and get a _Debit Card_. Even if you're _11 years old_*. You can then use the card to pay for cheap cloud hosting, or sign up for some cool free trials - For example, [Google Compute Engine](https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits) has a VPS which is _free forever_ if you simply enter your card details in.\n\nFor more recommended Virtual Private Servers (VPS), try the `git>bot/hosting` command."
       },
       {
         "name": "* Asterisk",
-        "value": "If you are 11 or 12 years old, ask a Moderator for help, as your choices of server may be restricted - They are happy to report you."
+        "value": "If you are under 13 years of age, please ask a moderator for help, to enable us to stay COPPA compliant."
       }
     ]
   }
